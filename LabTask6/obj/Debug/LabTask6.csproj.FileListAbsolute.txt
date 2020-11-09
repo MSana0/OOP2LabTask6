@@ -1,0 +1,7 @@
+C:\Users\MARIUMSANAMIM\source\repos\LabTask6\LabTask6\bin\Debug\LabTask6.exe.config
+C:\Users\MARIUMSANAMIM\source\repos\LabTask6\LabTask6\bin\Debug\LabTask6.exe
+C:\Users\MARIUMSANAMIM\source\repos\LabTask6\LabTask6\bin\Debug\LabTask6.pdb
+C:\Users\MARIUMSANAMIM\source\repos\LabTask6\LabTask6\obj\Debug\LabTask6.csprojAssemblyReference.cache
+C:\Users\MARIUMSANAMIM\source\repos\LabTask6\LabTask6\obj\Debug\LabTask6.csproj.CoreCompileInputs.cache
+C:\Users\MARIUMSANAMIM\source\repos\LabTask6\LabTask6\obj\Debug\LabTask6.exe
+C:\Users\MARIUMSANAMIM\source\repos\LabTask6\LabTask6\obj\Debug\LabTask6.pdb
